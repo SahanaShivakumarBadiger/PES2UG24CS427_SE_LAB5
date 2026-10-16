@@ -1,0 +1,7 @@
+************* Module course_enrollment_system
+course_enrollment_system.py:107:0: C0304: Final newline missing (missing-final-newline)
+course_enrollment_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+code has been rated at 9.66/10 (previous run: 4.00/10, +5.66)
+
